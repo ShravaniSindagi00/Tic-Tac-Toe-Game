@@ -1,6 +1,5 @@
 
-
-  let boxes = document.querySelectorAll(".box");
+let boxes = document.querySelectorAll(".box");
 let resetbtn = document.querySelector("#resetbtn");  // Added # for ID
 let newGamebtn = document.querySelector("#newbtn");
 let msgcontainer = document.querySelector(".msgcontainer");
